@@ -28,3 +28,7 @@ DevOps Lab 2
 
 ## Autor
 s181760
+
+## Narzędzia zespołu
+- Git — kontrola wersji
+- GitHub — współpraca nad kodem
