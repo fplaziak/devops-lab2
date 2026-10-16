@@ -28,3 +28,7 @@ DevOps Lab 2
 
 ## Autor
 s181760
+
+## Narzędzia zespołu
+- Git — historia zmian
+- GitHub — Pull Requesty i code review
